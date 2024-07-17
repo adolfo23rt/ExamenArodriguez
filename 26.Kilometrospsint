@@ -1,0 +1,10 @@
+Algoritmo Kilometros
+	Definir kil1, kil2 Como entero;
+	kil1=50;
+	kil2=100;
+	Mientras kil1 == kil2 Hacer
+		kil1<-kil1+1;
+		kil2<-kil2-1;
+	Fin Mientras
+	Escribir " Los autos se encuentran en el: " kil1;
+FinAlgoritmo

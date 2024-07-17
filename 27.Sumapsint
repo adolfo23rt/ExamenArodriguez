@@ -1,0 +1,13 @@
+Algoritmo Suma
+	Definir n, i, acu Como Entero;
+	i=0;
+	acu=0;
+	Mientras i <= n Hacer
+		Escribir "Ingrese el número al que dese llegar";
+		Leer n;
+		i=i+1;
+		acu=acu+i;
+	Fin Mientras
+	Escribir "La suma es de: " acu;
+FinAlgoritmo
+

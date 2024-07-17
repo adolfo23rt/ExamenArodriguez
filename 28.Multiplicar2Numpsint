@@ -1,0 +1,7 @@
+Algoritmo Multiplicar2Num
+	Definir a, b, mul como entero
+	Escribir "ingrese dos numeros"
+	leer a,b;
+	mil = a * b;
+	Escribir a, " x ",b," = ", a * b
+FinAlgoritmo
